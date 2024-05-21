@@ -1,0 +1,15 @@
+.offerSection {
+    background-color: #8595a06e;
+
+    .offerProducts {
+        width: 90%;
+        margin: auto;
+        justify-content: center;
+        gap: 3rem;
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+}
